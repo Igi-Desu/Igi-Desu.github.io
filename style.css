@@ -1,0 +1,95 @@
+body
+{
+background-color: black;
+color: white;
+font-family: 'Red Hat Display', sans-serif;
+text-align: justify;
+}
+#container
+{
+width: 1400px;
+margin-left: auto;
+margin-right: auto;
+}
+#naglowek
+{
+width: 1500px;
+height: 600px;
+text-align: center;
+background-image: url("Igor3.png");
+margin-left: auto;
+margin-right: auto;
+}
+#menu
+{
+padding: 10px;
+text-align: center;
+width: 1400px; 
+}
+
+/*.option
+{
+float: left;
+width: 200px;
+height: 25px;
+font-size: 18px;
+padding: 10px;
+border-right: 2px solid white;
+transition: 0.5s;
+}
+.option:hover
+{
+background-color: rgb(33,11,75);
+cursor: pointer;
+}*/
+.square
+{
+height: 550px;
+margin-top: 50px;
+line-height: 1.6;
+}
+.wideo 
+{
+float: left;
+background-color: rgb(0, 0, 0);
+height: 500px;
+width: 700px;
+}
+.text
+{
+float: left;
+background-color: rgb(0, 0, 0);
+height: 530px;
+width: 650px;
+padding-left: 30px;
+font-size: 25px;
+margin-left: 20px;
+}
+button
+{
+width: 150px;
+padding: 15px;
+text-align: center;
+margin: 20px 10px;
+margin-left: 120px;
+border-radius: 25px;
+border: solid rgb(33,11,75);
+background: transparent;
+transition: 0.5s;
+color: white;
+font-family: 'Chakra Petch', sans-serif;
+}
+button:hover
+{
+background: rgb(33,11,75);
+cursor: pointer;
+}
+#stopka
+{
+text-align: center;
+padding-top: 10px;
+font-size: 50px;
+width: 1400px;
+height: 600px;
+background-image: url("stopka3.png");
+}
